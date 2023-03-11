@@ -1,0 +1,179 @@
+.wrapper {
+    width: 1280px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid #777;
+    color: #777;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+}
+
+.address {
+    font-style: normal;
+    color: black;
+}
+
+h1 {
+    padding: 80px 120px 80px 10px;
+    font-size: 45px;
+    color: rgb(56, 55, 55);
+    text-shadow: 0 0 5px #FF0000, 0 0 10px #0000FF; 
+}
+
+.header {
+    text-align: center;
+    font-size: 15px;
+}
+
+.image {
+    width: 30%;
+    float: left;
+}
+
+.name {
+    width: 70%;
+    float: right;
+    height: 223px;
+}
+
+.nav {
+    clear: left;
+    text-align: center;
+}
+
+.blue-bgr{
+    background-color: rgb(52, 152, 219, 0.8);
+}
+
+.left {
+    height: 1200px;
+    width: 60%;
+    float: left;
+    background-color: rgb(254, 249, 231, 0.4);
+}
+
+.right {
+    height: 1200px;
+    width: 40%;
+    float: right;
+    background-color: rgb(254, 249, 231, 0.4);
+}
+
+.cont {
+    padding-left: 150px;
+}
+
+.contacts {
+    padding-left: 150px;
+    list-style-type: none;
+}
+
+.contacts li {
+    padding: 8px 0;
+}
+
+.contacts li a {
+    text-decoration: none;
+    color: black;
+}
+
+.address, .phone, .mail, .telegram, .skype, .discord {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.footer {
+    clear: left;
+    text-align: center;
+}
+
+.footer a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+.skill-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    font-weight: 600;
+}
+
+.skill-list li {
+    display: inline-block;
+    padding: 16px;
+}
+
+.time {
+    margin-right: 20px;
+}
+
+.photo {
+    margin-top: 20px;
+}
+
+.code-example {
+    font-size: 13px;
+    color: black;
+}
+
+.doctype, .htmllang, .head, .meta, .title, .body {
+    color: rgb(0, 0, 255);
+}
+
+.html, .lang, .charset, .http, .content, .nameclass, .content {
+    color: rgb(52, 152, 219);
+}
+
+.equals, .en, .utf, .xua, .edge, .viewport, .device {
+    color: rgb(211, 84, 0);
+}
+
+nav ul li a {
+    background-image: linear-gradient(lightblue, skyblue);
+    border: 1px solid #eee;
+    border-radius: 3px;
+    color: grey;
+    display: inline-block;
+    line-height: 32px;
+    padding: 0 15px;
+    text-decoration: none;
+    transition: none;
+    vertical-align: top;
+}
+
+nav ul li a:hover {
+    box-shadow: inset 0 1px 0 white, inset 0 -1px 0 #d9d9d9, inset 0 0 0 1px #f2f2f2;  
+}
+
+.button-grey {
+    background-color: #f2f2f2;
+    background-image: linear-gradient(to bottom, #f2f2f2, #f2f2f2);
+    border: 1px solid #bfbfbf;
+    box-shadow: inset 0 1px 0 white, inset 0 -1px 0 #d9d9d9, inset 0 0 0 1px #f2f2f2, 0 2px 4px rgba(0, 0, 0, 0.2);
+    color: #8c8c8c;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+h2 {
+    padding-left: 50px;
+}
+
+p {
+    padding-left: 30px;
+}
+
+.github {
+    padding-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+#code a:hover {
+    text-decoration: underline;
+    color: red;
+}
