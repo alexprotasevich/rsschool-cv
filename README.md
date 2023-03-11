@@ -43,7 +43,8 @@ Minsk, Belarus |
 ---
 
 ## Code example
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -53,5 +54,7 @@ Minsk, Belarus |
 </head>
 <body>
 </body>
-</html>```
+</html>
+```
+
 
